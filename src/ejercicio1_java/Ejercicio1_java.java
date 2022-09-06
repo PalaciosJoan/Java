@@ -27,7 +27,7 @@ public class Ejercicio1_java {
     num2 = Leer.nextInt();
     num3 = num1 + num2;
     System.out.println("La suma de los numeros es "+num3);
-    System.out.println("Saludos");
+    System.out.println("Saludoss");
     
     
     
